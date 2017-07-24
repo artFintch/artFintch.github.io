@@ -140,11 +140,9 @@ td {
 
 hr {
   border: 0;
-  outline: none;
-  height: 3px;
-  background: transparent url('../images/hr.gif') center center repeat-x;
-  margin: 0 0 20px;
-  margin-top: 20px;
+  border-bottom: 1px dashed #666;
+  background: #252525;
+  margin-top: 35px;
 }
 
 dt {
