@@ -163,16 +163,33 @@ dt {
   margin-bottom: 14px;
 }
 
+.icons {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.icons > div {
+  display: inline-block;
+  *display: inline; /* For IE7 */
+  width: 40px;
+  text-align: center;
+
+  .icon > img {
+    width: 18px;
+    height: 18px;
+  }
+}
+
 section {
   max-width:650px;
-  padding: 30px 0px 50px 0px;
+  padding: 30px 0px 20px 0px;
   //margin: 20px 0;
   margin-top: 30px;
 
   #title {
     border: 0;
     outline: none;
-    //margin: 0 0 10px 0;
+    margin: 0 0 20px 0;
     //padding: 0 0 5px 0;
 
     h1 {
@@ -185,7 +202,7 @@ section {
 
     p {
       margin-bottom: 5px;
-      color: #d7cfbe;
+      color: #ffcc00;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: bold;
       font-size: 14px;
