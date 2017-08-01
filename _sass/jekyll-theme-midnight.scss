@@ -171,7 +171,7 @@ dt {
 .icons > div {
   display: inline-block;
   *display: inline; /* For IE7 */
-  width: 40px;
+  width: 50px;
   text-align: center;
 
   .icon > img {
@@ -195,9 +195,9 @@ section {
     h1 {
       font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: bold;
-      font-size: 50px;
+      font-size: 65px;
       text-align: center;
-      line-height: 36px;
+      line-height: 46px;
     }
 
     p {
@@ -205,7 +205,7 @@ section {
       color: #ffcc00;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: bold;
-      font-size: 14px;
+      font-size: 18px;
       text-align: center;
     }
   }
