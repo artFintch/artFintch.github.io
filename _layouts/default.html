@@ -1,76 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-  <head prefix="og: http://ogp.me/ns#">
-    <meta charset="utf-8">
-    <title>About Me</title>
-    <meta property="og:title" content="Khorkov Vyacheslav, iOS Developer" />
-    <meta property="og:description" content="About Me" />
-    <meta property="og:url" content="https://github.com/artFintch" />
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/1075698?s=460&v=4" />
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="../assets/css/Balloon.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-    <script src="{{ '/assets/js/respond.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-  </head>
-  <body>
-    <div class="outer">
-      <div class="middle">
-        <div class="inner">
-          <div class="wrapper">
-            <section>
-              <div id="title">
-                <div style="padding: 14px" align="middle">
-                  <img style="opacity: 0.9; border-radius: 15px; background: linear_gradient(#2a2a29, #1c1c1c);" width="170px" src="../assets/images/av.jpg">
-                </div>
-                <h1>About Me</h1>
-                <p>Khorkov Vyacheslav, iOS Developer</p>
-                <div class="icons">
-                  <div>
-                    <a data-balloon="GitHub" data-balloon-pos="down" class="icon" href="https://github.com/artFintch">
-                      <img src="../assets/images/github.png">
-                    </a>
-                  </div>
-                  <div>
-                  <a data-balloon="Medium" data-balloon-pos="down" class="icon" href="https://medium.com/@artFintch">
-                    <img src="../assets/images/medium_bw.png">
-                  </a>
-                </div>
-                <div>
-                  <a data-balloon="HeadHunter" data-balloon-pos="down" class="icon" href="https://ekaterinburg.hh.ru/applicant/resumes/view?resume=227c8eb0ff013a445d0039ed1f395a436a494a">
-                    <img src="../assets/images/hh_bw.png">
-                  </a>
-                </div>
-                <div>
-                  <a data-balloon="LinkedIn" data-balloon-pos="down" class="icon" href="https://www.linkedin.com/in/vyacheslav-khorkov-92b65164/">
-                    <img src="../assets/images/linkedin_bw.png">
-                  </a>
-                </div>
-                <div>
-                  <a data-balloon="Upwork" data-balloon-pos="down" class="icon" href="https://www.upwork.com/o/profiles/users/_~01379889e9ed58198c/">
-                    <img src="../assets/images/upwork_bw.png">
-                  </a>
-                </div>
-              </div>
-            </div>
-            {{ content }}
-          </section>
-        </div>
-      </div>
+<html lang="en-us">
+
+  {% include head.html %}
+
+  <body class="layout-reverse theme-birds-of-paradise">
+
+    {% include sidebar.html %}
+
+    <div class="content container">
+      {{ content }}
     </div>
-  </div>
-  <footer>
-    <div id="footer">
-      <span>Theme by
-        <a href="https://twitter.com/michigangraham">
-          mattgraham
-        </a>
-      </span>
-      <br>
-      <span>
-        © 2017. All rights reserved.
-      </span>
-    </div>
-  </footer>
-</body>
+
+  </body>
 </html>

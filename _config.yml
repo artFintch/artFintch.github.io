@@ -1,1 +1,9 @@
-theme: jekyll-theme-midnight
+excerpt_separator: <!--more-->
+
+markdown: redcarpet
+highlighter: rouge
+
+permalink: /:title/
+
+title: 'Swifty Finch'
+baseurl: /
