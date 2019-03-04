@@ -3,5 +3,4 @@ permalink: /:title/
 title: 'Swifty Finch'
 
 excerpt_separator: <!--more-->
-markdown: redcarpet
 highlighter: rouge
