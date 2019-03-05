@@ -15,7 +15,7 @@ title: (ч.1) Яндекс Школа iOS
 
 ### Немного о себе для первой статьи
 
-В 2011 году я окончил **УрФУ** на безызвестном факультете по специальности **Информационные Системы и Технологии** при кафедре **Мультимедиа** технологий. Обучением своим не горжусь, но в рамках дипломной работы я успел натаскаться в [ActionScript 3.0](https://en.wikipedia.org/wiki/ActionScript). Этого мне хватило чтобы получить интересную работу. А чуть позже изучить [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) по лекциям [Paul Hegarty Stanford CS193](http://www.stanford.edu/class/cs193p) чтобы начать писать под **iOS**. После этого я умудрился поработать в 5 компаниях за 4 года, и в 4 из них просто кончились проекты, и прекратилось финансирование. В последней компании я занимался стримингом и загрузкой 360 видео и фото на [YouTube](https://support.google.com/youtube/topic/2853712?hl=en&ref_topic=4355169) и [Facebook video](https://facebook360.fb.com/) & [photo](https://facebook360.fb.com/360-photos/).
+В 2011 году я окончил **УрФУ** на безызвестном факультете по специальности **Информационные Системы и Технологии** при кафедре **Мультимедиа** технологий. Обучением своим не горжусь, но в рамках дипломной работы я успел натаскаться в [ActionScript 3.0](https://en.wikipedia.org/wiki/ActionScript). Этого мне хватило чтобы получить интересную работу. А чуть позже изучить [Objective-C](https://developer.apple.com/library/content/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html) по лекциям [Paul Hegarty Stanford CS193](https://www.stanford.edu/class/cs193p) чтобы начать писать под **iOS**. После этого я умудрился поработать в 5 компаниях за 4 года, и в 4 из них просто кончились проекты, и прекратилось финансирование. В последней компании я занимался стримингом и загрузкой 360 видео и фото на [YouTube](https://support.google.com/youtube/topic/2853712?hl=en&ref_topic=4355169) и [Facebook video](https://facebook360.fb.com/) & [photo](https://facebook360.fb.com/360-photos/).
 
 ### Итак, возвращаюсь к школе
 
@@ -38,7 +38,7 @@ title: (ч.1) Яндекс Школа iOS
 
 ### Что же дальше?
 
-Дома я решил, что может моему младшему брату это будет интересно. Я переправил ссылку ему, а сам продолжил подрабатывать на индуса с [Upwork](http://upwork.com/).  Ближе к концу месяца брат поделился со мной впечатлениями:
+Дома я решил, что может моему младшему брату это будет интересно. Я переправил ссылку ему, а сам продолжил подрабатывать на индуса с [Upwork](https://upwork.com).  Ближе к концу месяца брат поделился со мной впечатлениями:
 
 ![](/public/assets/imgs/posts/yandex-ios-school-p1/super.png)
 
