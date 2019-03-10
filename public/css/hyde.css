@@ -277,8 +277,8 @@ a.sidebar-nav-item:focus {
 }
 
 .theme-birds-of-paradise {
-    color: #E6E1C4;
-    background-color: #252525;
+    color: #ddd;
+    background-color: #222;
 }
 .theme-birds-of-paradise a {
     color: #fff;
@@ -286,10 +286,15 @@ a.sidebar-nav-item:focus {
     text-decoration: underline;
 }
 .theme-birds-of-paradise strong,
-.page-title,
-.post-title,
-.post-title a,
-h1, h2, h3, h4, h5, h6,
+.theme-birds-of-paradise .page-title,
+.theme-birds-of-paradise .post-title,
+.theme-birds-of-paradise .post-title a,
+.theme-birds-of-paradise h1,
+.theme-birds-of-paradise h2,
+.theme-birds-of-paradise h3,
+.theme-birds-of-paradise h4,
+.theme-birds-of-paradise h5,
+.theme-birds-of-paradise h6,
 .sidebar a {
     text-decoration: none;
     color: #fff;
