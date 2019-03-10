@@ -72,3 +72,6 @@
     overflow-x: auto;
     word-wrap: normal;
 }
+pre code {
+    color: #fff;
+}
