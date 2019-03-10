@@ -338,7 +338,7 @@ tbody tr:nth-child(odd) th {
 }
 .post figcaption {
     text-align: center;
-    font-size: 12px;
+    font-size: 0.8rem;
 }
 
 /* Blog post or page title */
