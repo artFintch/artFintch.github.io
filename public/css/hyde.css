@@ -130,7 +130,7 @@ a.sidebar-nav-item:focus {
 }
 
 .content {
-  padding-top:    3rem;
+  padding-top: 3rem;
 }
 
 @media (min-width: 48em) {
@@ -181,12 +181,12 @@ a.sidebar-nav-item:focus {
 .icons > div {
     display: inline-block;
     *display: inline; /* For IE7 */
-    width: 1.6rem;
+    width: 1.2rem;
     text-align: center;
 }
 .icon > img {
-    width: 22px;
-    height: 22px;
+    width: 20px;
+    height: 20px;
 }
 
 .avatar {
